@@ -16,7 +16,6 @@
     "chai": "4.2.0",
     "chai-as-promised": "7.1.1",
     "sinon-chai": "3.3.0",
-    "eslint": "4.1.1",
     "husky": "0.14.2",
     "mocha": "4.1.0",
     "nyc": "13.1.0",
